@@ -1,0 +1,11 @@
+{
+  "author" : "thakyZ",
+  "description" : "A drone pet for the Avali, spawnable from the pet house, which is craftable from the Avali nanolathe. \nNOTICE: This mod is meant to be used with Purchasable Pets, and should be considered an addon for it. If you don't use Purchasable Pets, you need to get the regular version of the drone mod instead, which uses the vanilla pet mechanics, here: http://steamcommunity.com/sharedfiles/filedetails/?id=748625593",
+  "friendlyName" : "Revamped Avali Drone Pet - Purchasable Pets Version",
+  "includes" : ["p_Pets", "Avali"],
+  "link" : "steam://url/CommunityFilePage/873846293",
+  "name" : "re-avalidronepet-ppets",
+  "requires" : ["p_Pets", "Avali"],
+  "steamContentId" : "873846293",
+  "version" : "1.2.2-hotfix"
+}
